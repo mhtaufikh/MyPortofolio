@@ -1,0 +1,60 @@
+.banner {
+  background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 10%;
+
+  color: beige;
+}
+
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: antiquewhite;
+  background-color: #dc3545;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 30px;
+}
+
+.crop-img {
+  object-fit: cover;
+}
+
+.fContainer {
+  display: flex;
+  justify-content: center;
+
+  width: 100%;
+  height: 150vh;
+  background-color: rgb(9, 4, 46);
+}
+
+.lastname {
+  color: rgb(16, 14, 63);
+  padding-left: 4px;
+  font-weight: 700;
+}
+
+.tim {
+  width: 250px;
+  border: 10px solid #cccccc;
+}
+
+.navigation {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  justify-items: center;
+  align-items: center;
+  background: blur(10%);
+}
+
+.logofb {
+  background-size: 10%;
+}
